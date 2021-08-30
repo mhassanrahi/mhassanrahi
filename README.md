@@ -61,10 +61,10 @@ Skills: React.js / Node.js / React Native / Next.js / MySQL / MongoDB / JavaScri
 
 <p>
 <a href="https://github.com/mhassanrahi">
-<img src="https://github-readme-stats.vercel.app/api?username=mhassanrahi&count_private=true&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=mhassanrahi&count_private=true&show_icons=true&theme=dark" width="400">
 </a>
 
   <a href="https://github.com/mhassanrahi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassanrahi&langs_count=5&layout=compact&theme=dark&hide=stylus,scss,php,shell,dockerfile" width="415">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassanrahi&langs_count=5&layout=compact&theme=dark&hide=stylus,scss,php,shell,dockerfile" width="335">
   </a>
 </p>
