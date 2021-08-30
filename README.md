@@ -6,7 +6,6 @@ Skills: React.js / Node.js / React Native / Next.js / MySQL / MongoDB / JavaScri
 
 -   🔭 I’m currently working on React, React Native, Node.js, Express, MySQL.
 -   🌱 I’m currently learning Next.js, TypeScript, MongoDB, GraphQL
--   📫 How to reach me: m.hassan.rahi@gmail.com
 -   😄 Pronouns: He/Him
 
 ## 🛠️ &nbsp;Tech Stack
@@ -50,7 +49,10 @@ Skills: React.js / Node.js / React Native / Next.js / MySQL / MongoDB / JavaScri
     <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">&nbsp;
     <img src="https://img.shields.io/badge/prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=f7b93e" alt="Prettier">&nbsp;
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mhassanrahi) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/m.hassan.rahi)
+-   **Where to find me**\
+    <a href="https://www.linkedin.com/in/m-hassan-rahi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
 
 ## 📊 &nbsp;GitHub Analytics
 
