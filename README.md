@@ -1,20 +1,14 @@
-### Hi there, I'm Mehmood Ul Hassan. 👋
+### Hi there 👋, my name is Mehmood Ul Hassan
 
-## I'm a Full Stack Web and Mobile Application Developer.
+#### I'm a Full Stack Web and Mobile Application Engineer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhassanrahi&theme=dark&show_icons=true)
+Skills: React.js / Node.js / React Native / Next.js / MySQL / MongoDB / JavaScript / TypeScript / GraphQL / Redux / HTML5 / CSS3 / Bootstrap
 
-<!--
-**mhassanrahi/mhassanrahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   🔭 I’m currently working on React, React Native, Node.js, Express, MySQL.
+-   🌱 I’m currently learning Next.js, TypeScript, MongoDB, GraphQL
+-   📫 How to reach me: m.hassan.rahi@gmail.com
+-   😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mhassanrahi) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/m.hassan.rahi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhassanrahi&show_icons=true&count_private=true)
