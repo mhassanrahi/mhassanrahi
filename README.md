@@ -2,8 +2,6 @@
 
 #### I'm a Full Stack Web and Mobile Application Engineer.
 
-Skills: React.js / Node.js / React Native / Next.js / MySQL / MongoDB / JavaScript / TypeScript / GraphQL / Redux / HTML5 / CSS3 / Bootstrap
-
 -   🔭 I’m currently working on React, React Native, Node.js, Express, MySQL.
 -   🌱 I’m currently learning Next.js, TypeScript, MongoDB, GraphQL
 -   😄 Pronouns: He/Him
