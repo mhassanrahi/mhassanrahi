@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=f7b93e" alt="Prettier">&nbsp;
 
 **Where to find me**\
-<a href="https://linkedin.com/in/m-hassan-rahi" target="_blank">
+<a href="https://linkedin.com/in/mhassanrahi" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" >
 </a>
 <a href="https://twitter.com/M_hassan_rahi" target="_blank">
