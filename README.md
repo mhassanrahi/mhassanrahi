@@ -2,8 +2,7 @@
 
 #### I'm a Full Stack Web and Mobile Application Engineer.
 
--   🔭 I’m currently working on React, React Native, Node.js, Express, MySQL.
--   🌱 I’m currently learning Next.js, TypeScript, MongoDB, GraphQL
+-   🔭 I’m currently working on React, Next.js, Node.js, Express, MySQL, and TypeScript.
 -   😄 Pronouns: He/Him
 
 ## 🛠️ &nbsp;Technology Stack
