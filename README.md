@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mehmood Hassan
 
-### Senior AI Full Stack Engineer | Backend & Cloud-Native Systems
+### Full Stack AI Engineer | Backend & Cloud-Native Systems
 
 Software engineer with 6+ years of experience building scalable full-stack web and mobile applications across healthcare, robotics, and AI-powered platforms.
 
