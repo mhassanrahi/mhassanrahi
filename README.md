@@ -10,10 +10,10 @@ I specialize in designing distributed backend systems, real-time applications, c
 
 ## 🚀 About Me
 
-* 🔭 Currently focused on scalable backend systems, cloud-native architecture, and AI-powered applications
-* ⚡ Experienced in healthcare platforms, robotics systems, real-time communication, and LLM integrations
-* 🧠 Working with OpenAI APIs, LangChain, LangGraph, and modern AI engineering workflows
-* ☁️ Building and deploying applications with AWS, Docker, Kubernetes, and CI/CD pipelines
+* 🚀 Full Stack Engineer building modern web applications with React, Next.js, Node.js, TypeScript, Python, and cloud technologies
+* 🏥 Experienced in healthcare, fintech, and robotics platforms, delivering seamless user experiences backed by scalable distributed systems
+* 🤖 Building AI-powered products with OpenAI APIs, LangChain, LangGraph, RAG architectures, and LLM integrations
+* ☁️ Deploying and scaling production systems using AWS, Docker, Kubernetes, serverless technologies, and automated CI/CD pipelines
 * 📍 Based in Germany
 
 ---
